@@ -23,12 +23,6 @@ alias zrc="vim ~/.zshrc"
 alias gconf="vim ~/.gitconfig"
 
 
-# Git
-alias co='checkout'
-alias st='status'
-alias br='branch'
-
-
 # Docker compose
 alias dc="docker-compose"
 alias dc-p="docker-compose ps"
