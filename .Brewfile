@@ -9,7 +9,6 @@ brew "git"
 brew "bat"
 brew "exa"
 brew "tree"
-brew "make"
 brew "zplug"
 brew "zsh-git-prompt"
 brew "zsh-completion"
@@ -18,7 +17,7 @@ brew "python"
 brew "pipenv"
 brew "pyenv"
 brew "docker"
-brew "mysql@5.7", restart_service: true
+brew "mysql@8.0", restart_service: true
 
 cask "tabby"
 cask "visual-studio-code"
