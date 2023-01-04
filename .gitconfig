@@ -1,0 +1,8 @@
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        pr = pull
+        mr = merge
+        fh = fetch
