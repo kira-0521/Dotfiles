@@ -39,7 +39,7 @@ volta install node
 # シンボリックリンク
 #------------------------------------------
 # 配置したい設定ファイル
-DOT_FILES=(.zshrc, .gitconfig)
+DOT_FILES=(.zshrc .gitconfig)
 
 # .zshrc という設定ファイルのシンボリックリンクを
 # ホームディレクトリ直下に作成する
